@@ -34,6 +34,3 @@ This is a conceptual diagram, not the production network topology.
 
 No measured results, independent backup configuration, DSM version or recovery testing have been supplied. RAID is not an independent backup.
 
-## Career context
-
-The résumé lists the initial centralized NAS implementation under the 2016–2017 MIS IT Unit Head role, intended to retain copies of files if workstation files became corrupted. The supplied DS1821+ configuration describes the later-reported implementation, not necessarily the hardware deployed in 2016–2017.

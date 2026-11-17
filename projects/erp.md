@@ -1,7 +1,6 @@
 # Branch ERP Rollout Support
 
 **Category:** Deployment support  
-**Role period:** 2016–2017 · résumé role period  
 **Technology:** ERP / remote IT support  
 **Status:** Support engagement
 

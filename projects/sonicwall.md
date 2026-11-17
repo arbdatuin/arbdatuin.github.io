@@ -36,6 +36,3 @@ Network boundary protection, controlled remote access and continuity during ISP 
 
 Version, licensing and measured outcomes have not been supplied.
 
-## Career context
-
-The résumé lists head office firewall implementation under the MIS IT Section Head role. The reported NS3700 configuration is supplied separately; the exact implementation date is not documented.

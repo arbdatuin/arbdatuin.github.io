@@ -1,7 +1,6 @@
 # Digital Document Archiving
 
 **Category:** Digital transformation  
-**Role period:** 2017–Present · résumé role period  
 **Technology:** Docukit / Doculink  
 **Status:** Completed
 

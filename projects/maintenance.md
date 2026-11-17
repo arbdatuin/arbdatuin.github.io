@@ -1,7 +1,6 @@
 # Annual Preventive Maintenance
 
 **Category:** IT operations  
-**Role period:** 2017–Present · résumé role period  
 **Technology:** NCR / VisMin branches  
 **Status:** Implemented recurring program
 

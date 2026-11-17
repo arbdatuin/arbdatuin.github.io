@@ -1,28 +1,24 @@
-# Hi, I’m Arjay Datuin
+# Arjay Datuin
 
-**IT Infrastructure · Cybersecurity · Technical Leadership**
+**IT Systems & Infrastructure Administrator**
 
-MIS IT Section Head with experience in systems administration, network security and retail IT operations since 2012.
+[Portfolio](https://arbdatuin.github.io/) · [LinkedIn](https://www.linkedin.com/in/arjay-datuin-0473b1ba/)
 
-[View my portfolio](https://arbdatuin.github.io/) | [LinkedIn](https://www.linkedin.com/in/arjay-datuin-0473b1ba/)
+## Selected projects
 
-## Projects
-
-- [Centralized NAS Implementation](https://arbdatuin.github.io/projects/synology.html) — Synology DS1821+
-- [SonicWall Firewall Implementation](https://arbdatuin.github.io/projects/sonicwall.html) — SonicWall NS3700
+- [Centralized NAS](https://arbdatuin.github.io/projects/synology.html) — Synology DS1821+
+- [SonicWall Firewall](https://arbdatuin.github.io/projects/sonicwall.html) — SonicWall NS3700
 - [Sophos Endpoint Protection](https://arbdatuin.github.io/projects/sophos.html) — Sophos Intercept X
+- [Centralized Wireless Access](https://arbdatuin.github.io/projects/wireless.html) — EnGenius / TP-Link Omada
+- [IP CCTV Installation](https://arbdatuin.github.io/projects/cctv.html) — TP-Link VIGI
 - [Digital Document Archiving](https://arbdatuin.github.io/projects/archiving.html) — Docukit / Doculink
-- [Annual Preventive Maintenance](https://arbdatuin.github.io/projects/maintenance.html) — NCR / VisMin branches
-- [Centralized Wireless Access](https://arbdatuin.github.io/projects/wireless.html) — EnGenius access points
-- [Branch ERP Rollout Support](https://arbdatuin.github.io/projects/erp.html) — ERP / remote IT support
+- [Preventive Maintenance](https://arbdatuin.github.io/projects/maintenance.html) — Branch IT operations
+- [Branch ERP Rollout Support](https://arbdatuin.github.io/projects/erp.html) — ERP / Remote support
 
 ## Technical focus
 
-- **Infrastructure & systems:** Server administration, Linux server administration, Hyper-V virtualization, VPS management, Synology NAS, Domain management, Email management
-- **Network & cybersecurity:** SonicWall firewall, Sophos Intercept X, VPN access, Network and server monitoring, EnGenius wireless access, Endpoint security monitoring
-- **Data & automation:** SQL / MySQL, AppSheet RPA / automation, Docukit / Doculink, Data archiving, Backup report review, Data recovery planning
-- **Leadership & operations:** Team leadership, Planning, Project management, End-user training, Issue and conflict resolution, Operational improvement, Budget and work scheduling, Technical documentation
-
-## Education
-
-BS Computer Science — University of Caloocan City.
+- **Infrastructure & systems:** Server administration, Linux, Hyper-V, VPS management, Synology NAS, Domain & email management
+- **Network & cybersecurity:** SonicWall, Sophos Intercept X, VPN, Network monitoring, EnGenius, TP-Link Omada
+- **Physical security:** TP-Link VIGI IP CCTV
+- **Data & automation:** SQL / MySQL, AppSheet, Docukit / Doculink, Data archiving, Backup monitoring
+- **IT leadership & operations:** Team leadership, Project management, Budget planning, End-user training, Technical documentation, Operational improvement

@@ -1,34 +1,30 @@
-# Arjay Datuin | IT Infrastructure & Cybersecurity
+# Arjay Datuin
 
-**MIS IT Section Head · IT Systems & Infrastructure Administrator**
+**IT Systems & Infrastructure Administrator | Cybersecurity | IT Operations**
 
-IT professional with a career beginning in 2012, supporting retail and distribution infrastructure, cybersecurity, operations and technical teams.
+[Portfolio](https://arbdatuin.github.io/) · [LinkedIn](https://www.linkedin.com/in/arjay-datuin-0473b1ba/) · [GitHub](https://github.com/arbdatuin)
 
-[Portfolio website](https://arbdatuin.github.io/) · [LinkedIn](https://www.linkedin.com/in/arjay-datuin-0473b1ba/) · [GitHub](https://github.com/arbdatuin)
+## Selected projects
 
-## Featured projects
-
-| Project | Technology / scope | Documentation |
+| Project | Technology | Case study |
 |---|---|---|
-| [Centralized NAS Implementation](projects/synology.html) | Synology DS1821+ | [Case study](projects/synology.md) |
-| [SonicWall Firewall Implementation](projects/sonicwall.html) | SonicWall NS3700 | [Case study](projects/sonicwall.md) |
-| [Sophos Endpoint Protection](projects/sophos.html) | Sophos Intercept X | [Case study](projects/sophos.md) |
-| [Digital Document Archiving](projects/archiving.html) | Docukit / Doculink | [Case study](projects/archiving.md) |
-| [Annual Preventive Maintenance](projects/maintenance.html) | NCR / VisMin branches | [Case study](projects/maintenance.md) |
-| [Centralized Wireless Access](projects/wireless.html) | EnGenius access points | [Case study](projects/wireless.md) |
-| [Branch ERP Rollout Support](projects/erp.html) | ERP / remote IT support | [Case study](projects/erp.md) |
+| [Centralized NAS](projects/synology.html) | Synology DS1821+ | [Documentation](projects/synology.md) |
+| [SonicWall Firewall](projects/sonicwall.html) | SonicWall NS3700 | [Documentation](projects/sonicwall.md) |
+| [Sophos Endpoint Protection](projects/sophos.html) | Sophos Intercept X | [Documentation](projects/sophos.md) |
+| [Centralized Wireless Access](projects/wireless.html) | EnGenius / TP-Link Omada | [Documentation](projects/wireless.md) |
+| [IP CCTV Installation](projects/cctv.html) | TP-Link VIGI | [Documentation](projects/cctv.md) |
+| [Digital Document Archiving](projects/archiving.html) | Docukit / Doculink | [Documentation](projects/archiving.md) |
+| [Preventive Maintenance](projects/maintenance.html) | Branch IT operations | [Documentation](projects/maintenance.md) |
+| [Branch ERP Rollout Support](projects/erp.html) | ERP / Remote support | [Documentation](projects/erp.md) |
 
-## Career progression
+## Technical focus
 
-- **MIS IT Section Head** — Roadmax Marketing Corporation (2017 – Present*)
-- **MIS IT Unit Head** — Roadmax Marketing Corporation (2016 – 2017)
-- **Admin IT Staff** — Roadmax Marketing Corporation (2012 – 2016)
+- **Infrastructure & systems:** Server administration, Linux, Hyper-V, VPS management, Synology NAS, Domain & email management
+- **Network & cybersecurity:** SonicWall, Sophos Intercept X, VPN, Network monitoring, EnGenius, TP-Link Omada
+- **Physical security:** TP-Link VIGI IP CCTV
+- **Data & automation:** SQL / MySQL, AppSheet, Docukit / Doculink, Data archiving, Backup monitoring
+- **IT leadership & operations:** Team leadership, Project management, Budget planning, End-user training, Technical documentation, Operational improvement
 
-*Current role as stated in supplied résumé.
+## About
 
-## Technical expertise
-
-- **Infrastructure & systems:** Server administration, Linux server administration, Hyper-V virtualization, VPS management, Synology NAS, Domain management, Email management
-- **Network & cybersecurity:** SonicWall firewall, Sophos Intercept X, VPN access, Network and server monitoring, EnGenius wireless access, Endpoint security monitoring
-- **Data & automation:** SQL / MySQL, AppSheet RPA / automation, Docukit / Doculink, Data archiving, Backup report review, Data recovery planning
-- **Leadership & operations:** Team leadership, Planning, Project management, End-user training, Issue and conflict resolution, Operational improvement, Budget and work scheduling, Technical documentation
+Static GitHub Pages portfolio. [Publishing guide](PUBLISH.md). Diagrams are illustrative; no confidential production configuration is included.
