@@ -9,7 +9,7 @@
 | Project | Technology | Case study |
 |---|---|---|
 | [Centralized NAS](projects/synology.html) | Synology DS1821+ | [Documentation](projects/synology.md) |
-| [SonicWall Firewall](projects/sonicwall.html) | SonicWall NS3700 | [Documentation](projects/sonicwall.md) |
+| [SonicWall Firewall](projects/sonicwall.html) | SonicWall NSA3700 | [Documentation](projects/sonicwall.md) |
 | [Sophos Endpoint Protection](projects/sophos.html) | Sophos Intercept X | [Documentation](projects/sophos.md) |
 | [Centralized Wireless Access](projects/wireless.html) | EnGenius / TP-Link Omada | [Documentation](projects/wireless.md) |
 | [IP CCTV Installation](projects/cctv.html) | TP-Link VIGI | [Documentation](projects/cctv.md) |
