@@ -1,4 +1,4 @@
-# Centralized NAS Implementation — Retail and Distribution
+# Centralized NAS Implementation — Retail Business
 
 **Project owner / portfolio author:** Arjay Datuin  
 **Status:** Completed  
