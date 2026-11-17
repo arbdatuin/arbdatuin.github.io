@@ -4,28 +4,81 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Portfolio — Arjay Datuin, IT infrastructure and cybersecurity.">
-  <meta name="theme-color" content="#f6f7f5">
+  <meta name="theme-color" content="#f7f6f2">
   <title>Portfolio | Arjay Datuin</title>
   <link rel="stylesheet" href="style.css">
   <script src="theme.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
-  <header class="site-header"><a class="brand" href="index.html" aria-label="Arjay Datuin home"><span class="brand-mark">AD</span><span>Arjay Datuin</span></a><nav aria-label="Main navigation"><a href="#projects">Projects</a><a href="skills.html">Skills</a><a href="resume.html">Profile</a><a href="https://www.linkedin.com/in/arjay-datuin-0473b1ba/" target="_blank" rel="noreferrer">LinkedIn ↗</a></nav><button class="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch color theme"><span aria-hidden="true">☾</span><span class="theme-label">Dark mode</span></button></header>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="Arjay Datuin home"><span class="brand-mark">AD</span><span>Arjay Datuin</span></a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Toggle navigation">
+      <span></span><span></span><span></span>
+    </button>
+    <nav id="main-nav" aria-label="Main navigation">
+      <a href="#projects">Projects</a>
+      <a href="skills.html">Skills</a>
+      <a href="resume.html">Profile</a>
+      <a href="https://www.linkedin.com/in/arjay-datuin-0473b1ba/" target="_blank" rel="noreferrer">LinkedIn ↗</a>
+    </nav>
+    <button class="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch color theme">
+      <span aria-hidden="true">☾</span>
+      <span class="theme-label">Dark mode</span>
+    </button>
+  </header>
   <main id="main">
-    <section class="hero"><div class="hero-copy"><p class="eyebrow"><span class="status-dot"></span> IT infrastructure / Cybersecurity</p><h1>Arjay Datuin<span class="accent">.</span></h1><h2>IT Systems &amp; Infrastructure Administrator</h2><p class="lead">I implement and manage secure IT systems for retail and distribution, with a focus on infrastructure, cybersecurity, and reliable business operations.</p><div class="actions"><a class="button" href="#projects">Explore projects <span aria-hidden="true">↓</span></a><a class="button button-secondary" href="https://github.com/arbdatuin" target="_blank" rel="noreferrer">GitHub profile ↗</a></div></div><div class="hero-aside"><span class="aside-number">01</span><p>Building resilient systems for the people and businesses that depend on them.</p><span class="aside-rule"></span><p class="aside-meta">Based in the Philippines<br>Infrastructure · Security · Operations</p></div></section>
-    <section class="section" id="projects"><div class="section-heading"><div><p class="eyebrow">Selected work</p><h2>Projects &amp; case studies</h2></div><span class="section-count">08 / CASE STUDIES</span></div><div class="project-grid">
-      <a class="project-card" href="projects/synology.html"><div class="card-top"><span class="index">01</span><span class="category">Storage infrastructure</span><span class="arrow" aria-hidden="true">↗</span></div><h3>Centralized NAS</h3><p>Centralized file access, directory permissions and remote connectivity.</p><span class="tech">Synology DS1821+</span></a>
-      <a class="project-card" href="projects/sonicwall.html"><div class="card-top"><span class="index">02</span><span class="category">Network security</span><span class="arrow" aria-hidden="true">↗</span></div><h3>SonicWall Firewall</h3><p>Perimeter security, SSL VPN, traffic control and ISP failover.</p><span class="tech">SonicWall NS3700</span></a>
-      <a class="project-card" href="projects/sophos.html"><div class="card-top"><span class="index">03</span><span class="category">Endpoint security</span><span class="arrow" aria-hidden="true">↗</span></div><h3>Sophos Endpoint Protection</h3><p>Centralized protection and threat response for 232 endpoints.</p><span class="tech">Sophos Intercept X</span></a>
-      <a class="project-card" href="projects/wireless.html"><div class="card-top"><span class="index">04</span><span class="category">Network infrastructure</span><span class="arrow" aria-hidden="true">↗</span></div><h3>Centralized Wireless Access</h3><p>Controlled Wi-Fi access for employees and authorized devices.</p><span class="tech">EnGenius / TP-Link Omada</span></a>
-      <a class="project-card" href="projects/cctv.html"><div class="card-top"><span class="index">05</span><span class="category">Physical security</span><span class="arrow" aria-hidden="true">↗</span></div><h3>IP CCTV Installation</h3><p>IP video surveillance installation for business premises.</p><span class="tech">TP-Link VIGI</span></a>
-      <a class="project-card" href="projects/archiving.html"><div class="card-top"><span class="index">06</span><span class="category">Digital transformation</span><span class="arrow" aria-hidden="true">↗</span></div><h3>Digital Document Archiving</h3><p>Digitizing hard-copy sales invoices for Finance — Credit and Collection.</p><span class="tech">Docukit / Doculink</span></a>
-      <a class="project-card" href="projects/maintenance.html"><div class="card-top"><span class="index">07</span><span class="category">IT operations</span><span class="arrow" aria-hidden="true">↗</span></div><h3>Preventive Maintenance</h3><p>Recurring computer maintenance across NCR and VisMin branches.</p><span class="tech">Branch IT operations</span></a>
-      <a class="project-card" href="projects/erp.html"><div class="card-top"><span class="index">08</span><span class="category">Deployment support</span><span class="arrow" aria-hidden="true">↗</span></div><h3>Branch ERP Rollout Support</h3><p>Remote branch installations and technical support during rollout.</p><span class="tech">ERP / Remote support</span></a>
-    </div></section>
-    <section class="focus-panel"><div><p class="eyebrow">Technical focus</p><h2>Infrastructure that works quietly—and securely.</h2></div><div><p>Synology · SonicWall · Sophos · Omada · VIGI · Hyper-V · SQL · Linux · AppSheet</p><a class="text-link" href="skills.html">Explore technical skills <span aria-hidden="true">→</span></a></div></section>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="status-dot"></span> IT infrastructure / Cybersecurity</p>
+        <h1>Arjay Datuin<span class="accent">.</span></h1>
+        <h2>IT Systems &amp; Infrastructure Administrator</h2>
+        <p class="lead">I implement and manage secure IT systems for retail and distribution, with a focus on infrastructure, cybersecurity, and reliable business operations.</p>
+        <div class="actions">
+          <a class="button" href="#projects">Explore projects <span aria-hidden="true">↓</span></a>
+          <a class="button button-secondary" href="https://github.com/arbdatuin" target="_blank" rel="noreferrer">GitHub profile ↗</a>
+        </div>
+      </div>
+      <div class="hero-aside">
+        <span class="aside-number">01</span>
+        <p>Building resilient systems for the people and businesses that depend on them.</p>
+        <span class="aside-rule"></span>
+        <p class="aside-meta">Based in the Philippines<br>Infrastructure · Security · Operations</p>
+      </div>
+    </section>
+    <section class="section" id="projects">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Selected work</p>
+          <h2>Projects &amp; case studies</h2>
+        </div>
+        <span class="section-count">08 / CASE STUDIES</span>
+      </div>
+      <div class="project-grid">
+        <a class="project-card" href="projects/synology.html"><div class="card-top"><span class="index">01</span><span class="category">Storage infrastructure</span><span class="arrow" aria-hidden="true">↗</span></div><h3>Centralized NAS</h3><p>Centralized file access, directory permissions and remote connectivity.</p><span class="tech">Synology DS1821+</span></a>
+        <a class="project-card" href="projects/sonicwall.html"><div class="card-top"><span class="index">02</span><span class="category">Network security</span><span class="arrow" aria-hidden="true">↗</span></div><h3>SonicWall Firewall</h3><p>Perimeter security, SSL VPN, traffic control and ISP failover.</p><span class="tech">SonicWall NS3700</span></a>
+        <a class="project-card" href="projects/sophos.html"><div class="card-top"><span class="index">03</span><span class="category">Endpoint security</span><span class="arrow" aria-hidden="true">↗</span></div><h3>Sophos Endpoint Protection</h3><p>Centralized protection and threat response for 232 endpoints.</p><span class="tech">Sophos Intercept X</span></a>
+        <a class="project-card" href="projects/wireless.html"><div class="card-top"><span class="index">04</span><span class="category">Network infrastructure</span><span class="arrow" aria-hidden="true">↗</span></div><h3>Centralized Wireless Access</h3><p>Controlled Wi-Fi access for employees and authorized devices.</p><span class="tech">EnGenius / TP-Link Omada</span></a>
+        <a class="project-card" href="projects/cctv.html"><div class="card-top"><span class="index">05</span><span class="category">Physical security</span><span class="arrow" aria-hidden="true">↗</span></div><h3>IP CCTV Installation</h3><p>IP video surveillance installation for business premises.</p><span class="tech">TP-Link VIGI</span></a>
+        <a class="project-card" href="projects/archiving.html"><div class="card-top"><span class="index">06</span><span class="category">Digital transformation</span><span class="arrow" aria-hidden="true">↗</span></div><h3>Digital Document Archiving</h3><p>Digitizing hard-copy sales invoices for Finance — Credit and Collection.</p><span class="tech">Docukit / Doculink</span></a>
+        <a class="project-card" href="projects/maintenance.html"><div class="card-top"><span class="index">07</span><span class="category">IT operations</span><span class="arrow" aria-hidden="true">↗</span></div><h3>Preventive Maintenance</h3><p>Recurring computer maintenance across NCR and VisMin branches.</p><span class="tech">Branch IT operations</span></a>
+        <a class="project-card" href="projects/erp.html"><div class="card-top"><span class="index">08</span><span class="category">Deployment support</span><span class="arrow" aria-hidden="true">↗</span></div><h3>Branch ERP Rollout Support</h3><p>Remote branch installations and technical support during rollout.</p><span class="tech">ERP / Remote support</span></a>
+      </div>
+    </section>
+    <section class="focus-panel">
+      <div>
+        <p class="eyebrow">Technical focus</p>
+        <h2>Infrastructure that works quietly—and securely.</h2>
+      </div>
+      <div>
+        <p>Synology · SonicWall · Sophos · Omada · VIGI · Hyper-V · SQL · Linux · AppSheet</p>
+        <a class="text-link" href="skills.html">Explore technical skills <span aria-hidden="true">→</span></a>
+      </div>
+    </section>
   </main>
-  <footer><span>Arjay Datuin · IT Infrastructure &amp; Cybersecurity</span><span><a href="https://github.com/arbdatuin" target="_blank" rel="noreferrer">GitHub ↗</a> · <a href="https://www.linkedin.com/in/arjay-datuin-0473b1ba/" target="_blank" rel="noreferrer">LinkedIn ↗</a></span></footer>
+  <footer>
+    <span>Arjay Datuin · IT Infrastructure &amp; Cybersecurity</span>
+    <span><a href="https://github.com/arbdatuin" target="_blank" rel="noreferrer">GitHub ↗</a> · <a href="https://www.linkedin.com/in/arjay-datuin-0473b1ba/" target="_blank" rel="noreferrer">LinkedIn ↗</a></span>
+  </footer>
 </body>
 </html>

@@ -1,5 +1,8 @@
 (() => {
   const root = document.documentElement;
+  const nav = document.querySelector('#main-nav');
+  const navToggle = document.querySelector('.nav-toggle');
+
   const storedTheme = localStorage.getItem('portfolio-theme');
   const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
   const initialTheme = storedTheme || (prefersDark ? 'dark' : 'light');
@@ -18,6 +21,7 @@
   }
 
   applyTheme(initialTheme);
+
   document.querySelectorAll('.theme-toggle').forEach((button) => {
     button.addEventListener('click', () => {
       const nextTheme = root.dataset.theme === 'dark' ? 'light' : 'dark';
@@ -25,4 +29,12 @@
       applyTheme(nextTheme);
     });
   });
+
+  if (navToggle && nav) {
+    navToggle.addEventListener('click', () => {
+      const expanded = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', String(!expanded));
+      nav.classList.toggle('is-open');
+    });
+  }
 })();
