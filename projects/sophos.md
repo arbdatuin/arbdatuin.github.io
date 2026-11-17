@@ -35,3 +35,7 @@ Centralized visibility, consistent device protection and incident response capab
 - [ ] Validation results and measured outcomes
 
 Version, licensing and measured outcomes have not been supplied.
+
+## Career context
+
+The résumé lists endpoint antivirus implementation under the MIS IT Section Head role for malware and ransomware defense. The Intercept X edition and 232 endpoints were supplied separately; the exact rollout date is not documented.

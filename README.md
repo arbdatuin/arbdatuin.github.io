@@ -1,14 +1,42 @@
-# Arjay Datuin | IT Infrastructure & Cybersecurity Portfolio
+# Arjay Datuin | IT Infrastructure & Cybersecurity
 
-IT Systems & Infrastructure Administrator focused on storage, firewall administration, endpoint protection and distributed retail IT operations.
+**MIS IT Section Head · IT Systems & Infrastructure Administrator**
 
-[LinkedIn](https://www.linkedin.com/in/arjay-datuin-0473b1ba/) · [GitHub](https://github.com/arbdatuin)
+IT professional with a career beginning in 2012, supporting retail and distribution infrastructure, cybersecurity, operations and technical teams.
+
+[Portfolio website](https://arbdatuin.github.io/) · [LinkedIn](https://www.linkedin.com/in/arjay-datuin-0473b1ba/) · [GitHub](https://github.com/arbdatuin)
 
 ## Featured projects
 
-[Synology NAS implementation](projects/synology.md) — completed storage implementation for a retail and distribution business using DS1821+, RAID 1, SMB, Synology Drive, remote access/VPN and user/group permissions.
+| Project | Technology / scope | Documentation |
+|---|---|---|
+| [Centralized NAS Implementation](projects/synology.html) | Synology DS1821+ | [Case study](projects/synology.md) |
+| [SonicWall Firewall Implementation](projects/sonicwall.html) | SonicWall NS3700 | [Case study](projects/sonicwall.md) |
+| [Sophos Endpoint Protection](projects/sophos.html) | Sophos Intercept X | [Case study](projects/sophos.md) |
+| [Digital Document Archiving](projects/archiving.html) | Docukit / Doculink | [Case study](projects/archiving.md) |
+| [Annual Preventive Maintenance](projects/maintenance.html) | NCR / VisMin branches | [Case study](projects/maintenance.md) |
+| [Centralized Wireless Access](projects/wireless.html) | EnGenius access points | [Case study](projects/wireless.md) |
+| [Branch ERP Rollout Support](projects/erp.html) | ERP / remote IT support | [Case study](projects/erp.md) |
 
-[SonicWall Firewall implementation](projects/sonicwall.md) — one SonicWall NSA3700 with firewall access rules, SSL VPN, Gateway Antivirus, IPS, Application Control, Content Filtering, Bandwidth Management, dual WAN/ISP failover and security monitoring.
+## Career progression
 
-[Sophos Endpoint Protection implementation](projects/sophos.md) — Sophos Intercept X protecting 232 endpoints, centrally managed via Sophos Central, with malware and ransomware protection, application/web/peripheral controls, tamper protection, health monitoring, investigation and device isolation.
+- **MIS IT Section Head** — Roadmax Marketing Corporation (2017 – Present*)
+- **MIS IT Unit Head** — Roadmax Marketing Corporation (2016 – 2017)
+- **Admin IT Staff** — Roadmax Marketing Corporation (2012 – 2016)
 
+*Current role as stated in supplied résumé.
+
+## Technical expertise
+
+- **Infrastructure & systems:** Server administration, Linux server administration, Hyper-V virtualization, VPS management, Synology NAS, Domain management, Email management
+- **Network & cybersecurity:** SonicWall firewall, Sophos Intercept X, VPN access, Network and server monitoring, EnGenius wireless access, Endpoint security monitoring
+- **Data & automation:** SQL / MySQL, AppSheet RPA / automation, Docukit / Doculink, Data archiving, Backup report review, Data recovery planning
+- **Leadership & operations:** Team leadership, Planning, Project management, End-user training, Issue and conflict resolution, Operational improvement, Budget and work scheduling, Technical documentation
+
+## Education
+
+BS Computer Science — University of Caloocan City (2008–2012).
+
+## About this repository
+
+Static GitHub Pages portfolio, no build step required. See [publishing guide](PUBLISH.md). The diagrams are conceptual and the projects are described using supplied résumé and implementation details. No confidential configuration files, original résumé PDF, phone number, or private email are included.
