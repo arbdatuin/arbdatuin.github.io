@@ -1,4 +1,4 @@
-# Centralized NAS Implementation — Retail Business
+# Centralized NAS Implementation — Retail and Distribution
 
 **Project owner / portfolio author:** Arjay Datuin  
 **Status:** Completed  
@@ -16,7 +16,7 @@ Implemented centralized network attached storage to provide business file access
 | Capacity | 19 (unit and raw/usable designation to confirm) |
 | RAID | RAID 1 (reported; verify storage pool details) |
 | File services | SMB, shared folders, Synology Drive |
-| Remote connectivity | Synology Drive using Quickconnect |
+| Remote connectivity | Remote access / VPN |
 | Authorization | User and group permissions |
 
 ## Logical architecture
