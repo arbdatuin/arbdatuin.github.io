@@ -19,7 +19,7 @@
     <text x="195" y="73" text-anchor="middle" font-size="14">150 users (reported)</text>
     <text x="565" y="52" text-anchor="middle">Remote locations</text>
     <text x="565" y="73" text-anchor="middle" font-size="14">250 branches (reported)</text>
-    <text x="565" y="157" text-anchor="middle">Remote access / VPN</text>
+    <text x="565" y="157" text-anchor="middle">Synology Drive via Quickconnect</text>
     <text x="380" y="249" text-anchor="middle" font-weight="bold">Synology DS1821+</text>
     <text x="380" y="274" text-anchor="middle" font-size="15">Centralized storage + RAID 1</text>
     <text x="132" y="379" text-anchor="middle">Shared folders / SMB</text>
