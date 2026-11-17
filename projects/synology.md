@@ -16,7 +16,7 @@ Implemented centralized network attached storage to provide business file access
 | Capacity | 19 (unit and raw/usable designation to confirm) |
 | RAID | RAID 1 (reported; verify storage pool details) |
 | File services | SMB, shared folders, Synology Drive |
-| Remote connectivity | Remote access / VPN |
+| Remote connectivity | Synology Drive using Quickconnect |
 | Authorization | User and group permissions |
 
 ## Logical architecture
